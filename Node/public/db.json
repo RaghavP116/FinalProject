@@ -1,0 +1,428 @@
+[
+    {
+      "_id": "681d022091bca488c4921149",
+      "id": 1,
+      "name": "Barbell Bench Press",
+      "muscleGroup": "Chest",
+      "equipment": [
+        "Barbell",
+        "Bench"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Lie on a flat bench, grip barbell slightly wider than shoulder-width.",
+        "Lower the bar to mid-chest with control.",
+        "Press upward until arms are fully extended."
+      ],
+      "warmup": [
+        "2 sets of push-ups (10-15 reps)",
+        "Empty bar bench press (12 reps)"
+      ],
+      "benefits": [
+        "Builds upper-body strength",
+        "Targets pectorals, triceps, and shoulders"
+      ]
+    },
+    {
+      "_id": "681d0ca091bca488c492114b",
+      "id": 2,
+      "name": "Dumbbell Flyes",
+      "muscleGroup": "Chest",
+      "equipment": [
+        "Dumbbells",
+        "Bench"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/11/dumbbell-fly-resized.png",
+      "instructions": [
+        "Lie on a bench, hold dumbbells above chest with palms facing each other.",
+        "Lower arms outward in a wide arc.",
+        "Bring dumbbells back up over chest."
+      ],
+      "warmup": [
+        "Arm circles (1 min)",
+        "Light dumbbell press (10 reps)"
+      ],
+      "benefits": [
+        "Isolates chest muscles",
+        "Improves flexibility"
+      ]
+    },
+    {
+      "_id": "681d0ce391bca488c492114c",
+      "id": 3,
+      "name": "Push-Ups",
+      "muscleGroup": "Chest",
+      "equipment": [
+        "None"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/push-up-tall-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Place hands slightly wider than shoulder-width.",
+        "Lower body until chest nearly touches the floor.",
+        "Push back up to starting position."
+      ],
+      "warmup": [
+        "Shoulder rolls (10 reps)",
+        "Cat-cow stretch (30 sec)"
+      ],
+      "benefits": [
+        "No equipment needed",
+        "Strengthens core and chest"
+      ]
+    },
+    {
+      "_id": "681d0d8291bca488c492114d",
+      "id": 4,
+      "name": "Pull-Ups",
+      "muscleGroup": "Back",
+      "equipment": [
+        "Pull-up Bar"
+      ],
+      "difficulty": "Advanced",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/pull-up-2-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Grip bar wider than shoulder-width.",
+        "Pull body up until chin clears the bar.",
+        "Lower with control."
+      ],
+      "warmup": [
+        "Scapular pull-ups (10 reps)",
+        "Band-assisted pull-ups (8 reps)"
+      ],
+      "benefits": [
+        "Builds upper-back strength",
+        "Improves grip"
+      ]
+    },
+    {
+      "_id": "681d0e1a91bca488c492114e",
+      "id": 5,
+      "name": "Bent-Over Rows",
+      "muscleGroup": "Back",
+      "equipment": [
+        "Barbell"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png",
+      "instructions": [
+        "Bend knees slightly, hinge at hips.",
+        "Pull barbell to lower ribs.",
+        "Lower slowly."
+      ],
+      "warmup": [
+        "Bodyweight rows (10 reps)",
+        "Foam roll upper back"
+      ],
+      "benefits": [
+        "Targets lats and rhomboids",
+        "Improves posture"
+      ]
+    },
+    {
+      "_id": "681d0ecf91bca488c492114f",
+      "id": 6,
+      "name": "Lat Pulldown",
+      "muscleGroup": "Back",
+      "equipment": [
+        "Cable Machine"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png",
+      "instructions": [
+        "Grip bar wider than shoulders.",
+        "Pull bar to chest.",
+        "Control the return."
+      ],
+      "warmup": [
+        "Band pull-aparts (12 reps)",
+        "Shoulder dislocations (10 reps)"
+      ],
+      "benefits": [
+        "Great for beginners",
+        "Develops latissimus dorsi"
+      ]
+    },
+    {
+      "_id": "681d0f2291bca488c4921150",
+      "id": 7,
+      "name": "Bicep Curls",
+      "muscleGroup": "Arms",
+      "equipment": [
+        "Dumbbells"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://i.pinimg.com/736x/c7/7b/14/c77b14c3894a63c3fb066dd8f4deec34.jpg",
+      "instructions": [
+        "Stand with dumbbells at sides.",
+        "Curl weights while keeping elbows fixed.",
+        "Slowly lower."
+      ],
+      "warmup": [
+        "Arm circles (30 sec)",
+        "Light curls (12 reps)"
+      ],
+      "benefits": [
+        "Isolates biceps",
+        "Improves arm definition"
+      ]
+    },
+    {
+      "_id": "681d100491bca488c4921151",
+      "id": 8,
+      "name": "Tricep Dips",
+      "muscleGroup": "Arms",
+      "equipment": [
+        "Parallel Bars"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2017/08/assisted-triceps-dip-resized-1.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Lower body by bending elbows.",
+        "Push back up using triceps."
+      ],
+      "warmup": [
+        "Bench dips (10 reps)",
+        "Shoulder mobility drills"
+      ],
+      "benefits": [
+        "Targets triceps",
+        "No equipment needed (can use a bench)"
+      ]
+    },
+    {
+      "_id": "681d109891bca488c4921153",
+      "id": 9,
+      "name": "Hammer Curls",
+      "muscleGroup": "Arms",
+      "equipment": [
+        "Dumbbells"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://cdn.prod.website-files.com/61713dc07218ee71af5413af/66fa8e841702f03d7c76bef7_66fa8e3f30d1ccab95ff2b9f_Muscles%2520Hammer%2520Curls%2520Target-min.jpeg",
+      "instructions": [
+        "Hold dumbbells with neutral grip (palms facing in).",
+        "Curl while maintaining grip.",
+        "Lower slowly."
+      ],
+      "warmup": [
+        "Wrist rotations (1 min)",
+        "Light hammer curls (10 reps)"
+      ],
+      "benefits": [
+        "Works brachialis (under biceps)",
+        "Improves grip strength"
+      ]
+    },
+    {
+      "_id": "681d10d391bca488c4921154",
+      "id": 10,
+      "name": "Overhead Press",
+      "muscleGroup": "Shoulders",
+      "equipment": [
+        "Barbell"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/05/Dumbbell-Shoulder-Press-resized.png",
+      "instructions": [
+        "Press barbell overhead until arms lock.",
+        "Lower to collarbone."
+      ],
+      "warmup": [
+        "Empty bar press (10 reps)",
+        "Band pull-aparts (12 reps)"
+      ],
+      "benefits": [
+        "Builds deltoids",
+        "Enhances shoulder stability"
+      ]
+    },
+    {
+      "_id": "681d110991bca488c4921155",
+      "id": 11,
+      "name": "Lateral Raises",
+      "muscleGroup": "Shoulders",
+      "equipment": [
+        "Dumbbells"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/05/dumbbell-lateral-raise-resized.png",
+      "instructions": [
+        "Lift dumbbells to sides until arms parallel to floor.",
+        "Lower slowly."
+      ],
+      "warmup": [
+        "Arm swings (1 min)",
+        "Light lateral raises (12 reps)"
+      ],
+      "benefits": [
+        "Isolates side delts",
+        "Improves shoulder width"
+      ]
+    },
+    {
+      "_id": "681d113e91bca488c4921156",
+      "id": 12,
+      "name": "Face Pulls",
+      "muscleGroup": "Shoulders",
+      "equipment": [
+        "Cable Machine"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0252/3155/6686/files/Face_Pull.jpg?v=1712918234",
+      "instructions": [
+        "Pull rope toward forehead.",
+        "Squeeze rear delts."
+      ],
+      "warmup": [
+        "Band pull-aparts (15 reps)",
+        "Shoulder rolls (1 min)"
+      ],
+      "benefits": [
+        "Combats poor posture",
+        "Strengthens rear delts"
+      ]
+    },
+    {
+      "_id": "681d117191bca488c4921157",
+      "id": 13,
+      "name": "Barbell Squats",
+      "muscleGroup": "Legs",
+      "equipment": [
+        "Barbell"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://weighttraining.guide/wp-content/uploads/2016/10/barbell-squat-resized-FIXED-2.png",
+      "instructions": [
+        "Lower until thighs parallel to floor.",
+        "Drive through heels to stand."
+      ],
+      "warmup": [
+        "Bodyweight squats (15 reps)",
+        "Hip flexor stretches"
+      ],
+      "benefits": [
+        "Builds quadriceps and glutes",
+        "Boosts testosterone"
+      ]
+    },
+    {
+      "_id": "681d11b291bca488c4921158",
+      "id": 14,
+      "name": "Romanian Deadlifts",
+      "muscleGroup": "Legs",
+      "equipment": [
+        "Barbell"
+      ],
+      "difficulty": "Intermediate",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Hinge at hips, bar close to legs.",
+        "Lower until hamstrings stretch.",
+        "Return to standing."
+      ],
+      "warmup": [
+        "Bodyweight RDLs (12 reps)",
+        "Glute bridges (10 reps)"
+      ],
+      "benefits": [
+        "Targets hamstrings",
+        "Improves hip mobility"
+      ]
+    },
+    {
+      "_id": "681d11f291bca488c4921159",
+      "id": 15,
+      "name": "Bulgarian Split Squats",
+      "muscleGroup": "Legs",
+      "equipment": [
+        "Dumbbells"
+      ],
+      "difficulty": "Advanced",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEda5puVBy6LWFuQp-ZGrGxOf7wzSNZM8XQ&s",
+      "instructions": [
+        "Place rear foot on bench.",
+        "Lower until front thigh is parallel.",
+        "Push back up."
+      ],
+      "warmup": [
+        "Lunges (10 reps per leg)",
+        "Quad stretches (30 sec)"
+      ],
+      "benefits": [
+        "Unilateral strength",
+        "Improves balance"
+      ]
+    },
+    {
+      "_id": "681d123b91bca488c492115a",
+      "id": 16,
+      "name": "Hanging Leg Raises",
+      "muscleGroup": "Abs",
+      "equipment": [
+        "Pull-up Bar"
+      ],
+      "difficulty": "Advanced",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1497/9682/files/Russian_Chair_Leg_Raises.jpg?v=1670680228",
+      "instructions": [
+        "Hang from bar, lift legs to 90 degrees.",
+        "Lower slowly."
+      ],
+      "warmup": [
+        "Knee raises (10 reps)",
+        "Plank (30 sec)"
+      ],
+      "benefits": [
+        "Targets lower abs",
+        "Improves core strength"
+      ]
+    },
+    {
+      "_id": "681d128e91bca488c492115b",
+      "id": 17,
+      "name": "Russian Twists",
+      "muscleGroup": "Abs",
+      "equipment": [
+        "Medicine Ball (optional)"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://liftmanual.com/wp-content/uploads/2023/04/russian-twist.jpg",
+      "instructions": [
+        "Sit with knees bent, lean back slightly.",
+        "Rotate torso side to side."
+      ],
+      "warmup": [
+        "Seated twists (1 min)",
+        "Cat-cow stretch"
+      ],
+      "benefits": [
+        "Works obliques",
+        "No equipment needed"
+      ]
+    },
+    {
+      "_id": "681d13fe91bca488c492115c",
+      "id": 18,
+      "name": "Plank",
+      "muscleGroup": "Abs",
+      "equipment": [
+        "None"
+      ],
+      "difficulty": "Beginner",
+      "imageUrl": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/Front-Plank-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+      "instructions": [
+        "Hold push-up position on elbows.",
+        "Keep body straight."
+      ],
+      "warmup": [
+        "Bird-dogs (10 reps)",
+        "Superman holds (30 sec)"
+      ],
+      "benefits": [
+        "Strengthens entire core",
+        "Improves posture"
+      ]
+    }
+  ]
