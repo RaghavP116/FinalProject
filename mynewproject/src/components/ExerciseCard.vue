@@ -1,42 +1,33 @@
 <template>
   <div class="exercise-block">
-    <div class="exercise-content">
-      <img :src="exercise.imageUrl" :alt="exercise.name" class="exercise-img">
-      <div class="exercise-details">
-        <h3>{{ exercise.name }}</h3>
-        <p><strong>Muscle Group:</strong> {{ exercise.muscleGroup }}</p>
-        <p><strong>Equipment:</strong> {{ exercise.equipment }}</p>
-        <p><strong>Difficulty:</strong> {{ exercise.difficulty }}</p>
-      </div>
-      <div class="toggle-section">
-        <button @click="$emit('toggleDetails', exercise.id)">
-          {{ expanded ? 'Hide Details' : 'Show Details' }}
-        </button>
-      </div>
-    </div>
-    <div v-if="expanded" class="details-content">
-      <h4>Instructions:</h4>
-      <ol>
-        <li v-for="(step, index) in exercise.instructions" :key="index">{{ step }}</li>
-      </ol>
-      <h4>Warmup:</h4>
-      <ul>
-        <li v-for="(item, index) in exercise.warmup" :key="index">{{ item }}</li>
-      </ul>
-      <h4>Benefits:</h4>
-      <ul>
-        <li v-for="(benefit, index) in exercise.benefits" :key="index">{{ benefit }}</li>
-      </ul>
-    </div>
+    <ExerciseOverview
+      :exercise="exercise"
+      :expanded="expanded"
+      @toggleDetails="$emit('toggleDetails', exercise.id)"
+    />
+    <ExerciseDetails v-if="expanded" :exercise="exercise" />
   </div>
 </template>
 
 <script>
+import ExerciseOverview from './ExerciseOverview.vue';
+import ExerciseDetails from './ExerciseDetails.vue';
+
 export default {
   name: 'ExerciseCard',
+  components: {
+    ExerciseOverview,
+    ExerciseDetails
+  },
   props: {
-    exercise: Object,
-    expanded: Boolean
+    exercise: {
+      type: Object,
+      required: true
+    },
+    expanded: {
+      type: Boolean,
+      required: true
+    }
   }
 };
 </script>
