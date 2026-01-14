@@ -3,15 +3,20 @@ An interactive fitness exercise web application built using Vue.js that dynamica
 
 Tech Stack
   1. Vue.js – Component-based frontend architecture
+     
   2.JavaScript (ES6+) – Application logic and state handling
+  
   3.REST API – Dynamic exercise data fetching
+  
   4.CSS3 – Responsive layout and modern styling
 
 Key Features
   1.Reusable Vue Components
     Modular components such as GymHeader, ExerciseCard, ExerciseOverview, and ExerciseDetails ensure clean separation of concerns and maintainability.
+    
   2.API-Driven Content
     Exercise data is fetched asynchronously from a backend API, enabling dynamic updates without hardcoded content.
+    
   3.Expandable Exercise Cards
     Each exercise card supports toggle-based expansion to reveal:
 
