@@ -1,4 +1,4 @@
-##Fitness Exercises – Interactive Workout Guide (Vue.js)
+###Fitness Exercises – Interactive Workout Guide (Vue.js)
 
 A full-stack fitness exercise guide built with Vue.js and Node.js, designed to display a comprehensive list of workout exercises with detailed instructions. The application fetches exercise data from a backend API connected to MongoDB and presents it in a clean, user-friendly card layout.
 
