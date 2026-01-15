@@ -1,6 +1,10 @@
 Fitness Exercises – Interactive Workout Guide (Vue.js)
 
-An interactive fitness exercise web application built using Vue.js that dynamically fetches and displays workout exercises from a REST API. The application provides a clean, component-based UI where users can explore exercises and expand detailed workout instructions.
+A full-stack fitness exercise guide built with Vue.js and Node.js, designed to display a comprehensive list of workout exercises with detailed instructions. The application fetches exercise data from a backend API connected to MongoDB and presents it in a clean, user-friendly card layout.
+
+Each exercise includes muscle group, equipment, difficulty level, step-by-step instructions, warm-up routines, benefits, and visual references. Users can expand or collapse exercise details dynamically for a smooth browsing experience.
+
+This project demonstrates full-stack development concepts including API creation, database integration, asynchronous data fetching, and modern frontend architecture.
 
 Tech Stack
 
@@ -25,11 +29,3 @@ Uses controlled state (expandedExercise) to ensure only one exercise expands at 
 
 Clean & Responsive UI
 Styled with modern CSS and grid-based layouts to ensure readability and responsiveness across devices.
-
-Purpose of the Project
-
-This project demonstrates practical use of Vue.js component communication (props & events), asynchronous API integration using fetch, scalable frontend architecture for real-world applications, and effective UI/UX patterns for interactive content display.
-
-Ideal For
-
-Frontend development portfolios, Vue.js learning projects, and fitness or health-related web applications.
